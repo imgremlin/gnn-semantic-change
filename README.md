@@ -1,5 +1,5 @@
 # Semantic Change Detection with Graph Neural Networks
-Codebase for CSC2611H(Computational Models of Semantic Change) Final Project
+Codebase for CSC2611H (Computational Models of Semantic Change) Final Project
 
 ### Python environment setup with Conda
 
