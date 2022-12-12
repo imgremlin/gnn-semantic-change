@@ -37,3 +37,7 @@ python3 train_eval.py --file_id 2
 # Post-processing + results
 python3 post_processing.py
 ```
+### Notes
+* Competetition [link](https://competitions.codalab.org/competitions/20948)
+* Files located in ```data/init/``` can be downloaded [here](https://www.ims.uni-stuttgart.de/en/research/resources/corpora/sem-eval-ulscd-eng/)
+* ```train_eval_const_feats.py``` can be ran insted ```train_eval.py```. The model uses ones as node features instead of the word embeddings receive from the transformer
