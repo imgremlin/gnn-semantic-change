@@ -26,8 +26,6 @@ pip install transformers==4.24.0
 
 conda activate semgnn
 
-# SemGNN pipeline include following steps:
-
 # Running preprocessing for each corpus
 python3 preprocessing.py --file_id 1
 python3 preprocessing.py --file_id 2
